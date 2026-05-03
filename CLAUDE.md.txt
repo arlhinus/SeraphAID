@@ -1,0 +1,24 @@
+# CLAUDE.md
+
+## Proyecto
+Seraphaid es una aplicación en evolución orientada a traducir información clínica compleja a lenguaje comprensible para pacientes, comenzando por interpretación de exámenes.
+
+## Reglas permanentes
+- No reemplazar criterio médico profesional.
+- No emitir diagnósticos.
+- No romper funcionalidades existentes sin revisar primero.
+- Priorizar refactor progresivo sobre reescritura total.
+- Documentar decisiones importantes.
+- Mantener compatibilidad con ejecución local en Windows.
+- Favorecer arquitectura modular y mantenible.
+- Antes de cada sesión, leer:
+  - STATUS.md
+  - NEXT_STEPS.md
+  - DECISIONS.md
+  - PROJECT_AUDIT.md
+
+## Prioridad actual
+1. Auditar proyecto actual.
+2. Documentar arquitectura.
+3. Refactorizar el módulo actual de exámenes.
+4. Preparar extensión hacia medicamentos e indicaciones.

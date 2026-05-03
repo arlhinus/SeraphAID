@@ -1,0 +1,187 @@
+marcador,estado,explicacion,fuente_url
+glucosa,alto,La glucosa elevada en ayunas puede sugerir alteraciones del metabolismo o diabetes. Consulte a su médico.,https://medlineplus.gov/spanish/ency/article/003482.htm
+glucosa,bajo,La glucosa baja puede causar síntomas como mareos o debilidad. Requiere evaluación clínica.,https://medlineplus.gov/spanish/ency/article/003482.htm
+glucosa,limite,La glucosa está próxima al límite del rango. Considere repetir control o evaluar factores de riesgo metabólico.,https://medlineplus.gov/spanish/ency/article/003482.htm
+col_total,alto,El colesterol total elevado se asocia con un mayor riesgo cardiovascular. Se recomienda control médico y hábitos saludables.,https://medlineplus.gov/spanish/ency/article/003493.htm
+col_total,bajo,Un colesterol total muy bajo puede observarse en algunas enfermedades o malnutrición. Requiere correlato clínico.,https://medlineplus.gov/spanish/ency/article/003493.htm
+col_total,limite,El colesterol total está en rango límite. Controle dieta y repita examen según indicación médica.,https://medlineplus.gov/spanish/ency/article/003493.htm
+hdl,alto,HDL alto generalmente es protector frente a enfermedad cardiovascular. Mantenga hábitos saludables.,https://medlineplus.gov/spanish/ency/article/003496.htm
+hdl,bajo,HDL bajo aumenta el riesgo cardiovascular. Se recomienda actividad física y evitar tabaco.,https://medlineplus.gov/spanish/ency/article/003496.htm
+hdl,limite,HDL en el límite puede mejorar con dieta balanceada y ejercicio regular.,https://medlineplus.gov/spanish/ency/article/003496.htm
+ldl,alto,LDL elevado se asocia con mayor riesgo cardiovascular. Controle dieta y ejercicio y siga indicaciones médicas.,https://medlineplus.gov/spanish/ency/article/003493.htm
+ldl,bajo,LDL muy bajo rara vez es problemático pero debe interpretarse junto a otros parámetros lipídicos.,https://medlineplus.gov/spanish/ency/article/003493.htm
+ldl,limite,LDL cercano al límite puede requerir seguimiento y control del perfil lipídico completo.,https://medlineplus.gov/spanish/ency/article/003493.htm
+trigliceridos,alto,Triglicéridos elevados pueden asociarse a dieta rica en azúcares o alcohol. Controle peso y alimentación.,https://medlineplus.gov/spanish/ency/article/003493.htm
+trigliceridos,bajo,Triglicéridos muy bajos suelen carecer de relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003493.htm
+trigliceridos,limite,Triglicéridos cercanos al límite pueden requerir nuevo control en ayunas adecuadas.,https://medlineplus.gov/spanish/ency/article/003493.htm
+hemoglobina,alto,Hemoglobina elevada puede indicar deshidratación o enfermedades hematológicas. Requiere evaluación médica.,https://medlineplus.gov/spanish/ency/article/003642.htm
+hemoglobina,bajo,Hemoglobina baja sugiere anemia. Es recomendable estudio de causa y tratamiento médico.,https://medlineplus.gov/spanish/ency/article/003642.htm
+hemoglobina,limite,Hemoglobina límite puede deberse a factores nutricionales o hidratación. Control según indicación médica.,https://medlineplus.gov/spanish/ency/article/003642.htm
+creatinina,alto,Creatinina elevada puede indicar daño o disfunción renal. Se recomienda estimar filtrado glomerular.,https://medlineplus.gov/spanish/ency/article/003475.htm
+creatinina,bajo,Creatinina baja puede observarse en personas con baja masa muscular o desnutrición.,https://medlineplus.gov/spanish/ency/article/003475.htm
+creatinina,limite,Creatinina cercana al límite debe interpretarse junto al filtrado glomerular estimado.,https://medlineplus.gov/spanish/ency/article/003475.htm
+got_ast,alto,GOT/AST elevada puede indicar daño hepático o muscular. Es útil comparar con GPT/ALT para orientar la causa.,https://medlineplus.gov/spanish/ency/article/003473.htm
+got_ast,bajo,GOT/AST baja no tiene significado clínico relevante de forma aislada.,https://medlineplus.gov/spanish/ency/article/003473.htm
+got_ast,limite,GOT/AST cerca del límite: repetir y evaluar si hay exposición a fármacos o alcohol.,https://medlineplus.gov/spanish/ency/article/003473.htm
+gpt_alt,alto,GPT/ALT elevada es más específica de daño hepático. Pueden influir alcohol fármacos o infecciones virales.,https://medlineplus.gov/spanish/ency/article/003473.htm
+gpt_alt,bajo,GPT/ALT baja no tiene relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003473.htm
+gpt_alt,limite,GPT/ALT cerca del límite: repetir y evaluar factores de riesgo hepático.,https://medlineplus.gov/spanish/ency/article/003473.htm
+fosfatasa_alc,alto,Fosfatasa alcalina alta puede indicar problema hepático o óseo. Compare con GGT para orientar el origen.,https://medlineplus.gov/spanish/ency/article/003497.htm
+fosfatasa_alc,bajo,Fosfatasa alcalina baja puede observarse en desnutrición o déficit de zinc.,https://medlineplus.gov/spanish/ency/article/003497.htm
+fosfatasa_alc,limite,Fosfatasa alcalina cerca del límite: repetir y correlacionar con GGT y contexto clínico.,https://medlineplus.gov/spanish/ency/article/003497.htm
+bil_total,alto,Bilirrubina total elevada puede causar coloración amarilla de piel u ojos. Consulte su médico para evaluar la causa.,https://medlineplus.gov/spanish/ency/article/003461.htm
+bil_total,bajo,Bilirrubina total baja no tiene significado clínico relevante de forma aislada.,https://medlineplus.gov/spanish/ency/article/003461.htm
+bil_total,limite,Bilirrubina total cerca del límite: repetir si hay síntomas como coloración amarilla o coluria.,https://medlineplus.gov/spanish/ency/article/003461.htm
+albumina,alto,Albúmina alta habitualmente refleja deshidratación. Interprete junto al estado clínico general.,https://medlineplus.gov/spanish/ency/article/003480.htm
+albumina,bajo,Albúmina baja puede indicar desnutrición inflamación crónica o enfermedad hepática. Consulte evaluación médica.,https://medlineplus.gov/spanish/ency/article/003480.htm
+albumina,limite,Albúmina cerca del límite: confirme con proteínas totales y contexto clínico.,https://medlineplus.gov/spanish/ency/article/003480.htm
+sodio,alto,Sodio alto (hipernatremia) puede asociarse a deshidratación. Requiere evaluación del estado de hidratación.,https://medlineplus.gov/spanish/ency/article/000194.htm
+sodio,bajo,Sodio bajo (hiponatremia) puede causar síntomas como cefalea o confusión. Requiere evaluación médica.,https://medlineplus.gov/spanish/ency/article/000394.htm
+sodio,limite,Sodio cerca del límite: repetir y evaluar síntomas como mareos o cefalea.,https://medlineplus.gov/spanish/ency/article/000194.htm
+potasio,alto,Potasio alto (hiperpotasemia) puede afectar el ritmo cardíaco. Revise medicamentos y función renal con su médico.,https://medlineplus.gov/spanish/ency/article/001179.htm
+potasio,bajo,Potasio bajo (hipopotasemia) puede causar debilidad muscular o arritmias. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/000479.htm
+potasio,limite,Potasio cerca del límite: confirme que no haya hemólisis en la muestra y repita si hay síntomas.,https://medlineplus.gov/spanish/ency/article/001179.htm
+urea_bun,alto,Urea/BUN alta puede indicar deshidratación sangrado digestivo o reducción de función renal.,https://medlineplus.gov/spanish/ency/article/003474.htm
+urea_bun,bajo,Urea/BUN baja puede verse en dieta baja en proteínas o hepatopatía.,https://medlineplus.gov/spanish/ency/article/003474.htm
+urea_bun,limite,Urea/BUN cerca del límite: interprete junto a creatinina y balance hídrico.,https://medlineplus.gov/spanish/ency/article/003474.htm
+vfg_ckd_epi,alto,VFG alta puede observarse en estados de hiperfiltración. Interprete con creatinina y clínica.,https://www.kidney.org/atoz/content/gfr
+vfg_ckd_epi,bajo,VFG baja puede indicar enfermedad renal crónica. Consulte a su médico para confirmar y clasificar.,https://www.kidney.org/atoz/content/gfr
+vfg_ckd_epi,limite,VFG cerca del límite: repetir el examen y evaluar si se mantiene por más de 3 meses.,https://www.kidney.org/atoz/content/gfr
+pcr,alto,Proteína C reactiva elevada indica inflamación activa. Puede deberse a infección o proceso inflamatorio.,https://medlineplus.gov/spanish/ency/article/003356.htm
+pcr,bajo,PCR baja o indetectable es esperable cuando no hay inflamación activa.,https://medlineplus.gov/spanish/ency/article/003356.htm
+pcr,limite,PCR cerca del límite: repetir si hay síntomas persistentes de infección o inflamación.,https://medlineplus.gov/spanish/ency/article/003356.htm
+ferritina,alto,Ferritina alta puede indicar inflamación o sobrecarga de hierro. Interprete con hierro sérico y contexto clínico.,https://medlineplus.gov/spanish/ency/article/003490.htm
+ferritina,bajo,Ferritina baja sugiere déficit de hierro. Consulte la causa con su médico.,https://medlineplus.gov/spanish/ency/article/003490.htm
+ferritina,limite,Ferritina cerca del límite: añadir hierro sérico y saturación de transferrina si hay sospecha de anemia.,https://medlineplus.gov/spanish/ency/article/003490.htm
+leucocitos,alto,Leucocitos altos (leucocitosis) pueden indicar infección activa o estrés físico. Revise la fórmula diferencial.,https://medlineplus.gov/spanish/ency/article/003643.htm
+leucocitos,bajo,Leucocitos bajos (leucopenia) aumentan el riesgo de infección. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/003643.htm
+leucocitos,limite,Leucocitos cerca del límite: repetir si hay síntomas como fiebre o cansancio inusual.,https://medlineplus.gov/spanish/ency/article/003643.htm
+plaquetas,alto,Plaquetas altas (trombocitosis) pueden ser reactivas o indicar una condición hematológica. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/003647.htm
+plaquetas,bajo,Plaquetas bajas (trombocitopenia) aumentan el riesgo de sangrado. Revise medicamentos e infecciones con su médico.,https://medlineplus.gov/spanish/ency/article/003647.htm
+plaquetas,limite,Plaquetas cerca del límite: repetir y correlacionar con síntomas de sangrado o hematomas.,https://medlineplus.gov/spanish/ency/article/003647.htm
+inr,alto,INR alto indica mayor tiempo de coagulación. Si toma anticoagulantes consulte a su médico para ajuste de dosis.,https://medlineplus.gov/spanish/ency/article/003652.htm
+inr,bajo,INR bajo puede indicar mayor tendencia a coagular. Interprete en contexto clínico.,https://medlineplus.gov/spanish/ency/article/003652.htm
+inr,limite,INR cerca del límite: si toma anticoagulantes su médico evaluará si se requiere ajuste.,https://medlineplus.gov/spanish/ency/article/003652.htm
+hematocrito,alto,Hematocrito alto puede deberse a deshidratación o policitemia. Requiere correlato clínico.,https://medlineplus.gov/spanish/ency/article/003648.htm
+hematocrito,bajo,Hematocrito bajo es consistente con anemia. Investigue la causa con su médico.,https://medlineplus.gov/spanish/ency/article/003648.htm
+hematocrito,limite,Hematocrito cerca del límite: correlacione con hemoglobina y eritrocitos.,https://medlineplus.gov/spanish/ency/article/003648.htm
+eritrocitos,alto,Eritrocitos altos pueden verse en deshidratación o policitemia. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/003644.htm
+eritrocitos,bajo,Eritrocitos bajos sugieren anemia. Evalúe índices eritrocitarios y causa con su médico.,https://medlineplus.gov/spanish/ency/article/003644.htm
+eritrocitos,limite,Eritrocitos cerca del límite: correlacione con hemoglobina y hematocrito.,https://medlineplus.gov/spanish/ency/article/003644.htm
+bil_directa,alto,Bilirrubina directa alta sugiere colestasis o daño hepatocelular. Evalúe fosfatasa alcalina y GGT con su médico.,https://medlineplus.gov/spanish/ency/article/003461.htm
+bil_directa,bajo,Bilirrubina directa baja no tiene relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003461.htm
+bil_directa,limite,Bilirrubina directa cerca del límite: repetir si hay ictericia o coluria.,https://medlineplus.gov/spanish/ency/article/003461.htm
+bil_indirecta,alto,Bilirrubina indirecta alta puede indicar hemólisis o trastorno de conjugación como síndrome de Gilbert.,https://medlineplus.gov/spanish/ency/article/003461.htm
+bil_indirecta,bajo,Bilirrubina indirecta baja no tiene relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003461.htm
+bil_indirecta,limite,Bilirrubina indirecta cerca del límite: repetir y correlacionar con hemograma.,https://medlineplus.gov/spanish/ency/article/003461.htm
+prot_totales,alto,Proteínas totales altas pueden verse en deshidratación o ciertas enfermedades. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/003483.htm
+prot_totales,bajo,Proteínas totales bajas pueden indicar desnutrición pérdida renal o enfermedad hepática.,https://medlineplus.gov/spanish/ency/article/003483.htm
+prot_totales,limite,Proteínas totales cerca del límite: confirme con albúmina y globulinas.,https://medlineplus.gov/spanish/ency/article/003483.htm
+ggt,alto,GGT alta puede indicar colestasis o consumo de alcohol o ciertos medicamentos. Compare con fosfatasa alcalina.,https://medlineplus.gov/spanish/ency/article/003458.htm
+ggt,bajo,GGT baja no tiene relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003458.htm
+ggt,limite,GGT cerca del límite: repetir y evaluar consumo de alcohol o fármacos hepatotóxicos.,https://medlineplus.gov/spanish/ency/article/003458.htm
+globulinas,alto,Globulinas altas pueden indicar inflamación crónica o ciertas enfermedades. Consulte a su médico.,https://medlineplus.gov/spanish/ency/article/003483.htm
+globulinas,bajo,Globulinas bajas pueden observarse en inmunodeficiencias. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/003483.htm
+globulinas,limite,Globulinas cerca del límite: revisar relación albúmina/globulinas.,https://medlineplus.gov/spanish/ency/article/003483.htm
+rel_albumina_glob,alto,Relación albúmina/globulinas alta puede indicar globulinas bajas. Interprete con proteínas totales.,https://medlineplus.gov/spanish/ency/article/003483.htm
+rel_albumina_glob,bajo,Relación albúmina/globulinas baja puede indicar aumento de globulinas o albúmina baja.,https://medlineplus.gov/spanish/ency/article/003483.htm
+rel_albumina_glob,limite,Relación albúmina/globulinas cerca del límite: confirme con proteínas fraccionadas.,https://medlineplus.gov/spanish/ency/article/003483.htm
+tp_seg,alto,Tiempo de protrombina prolongado puede indicar déficit de factores de coagulación o enfermedad hepática.,https://medlineplus.gov/spanish/ency/article/003652.htm
+tp_seg,bajo,Tiempo de protrombina muy corto es infrecuente y rara vez tiene relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003652.htm
+tp_seg,limite,Tiempo de protrombina cerca del límite: repetir y revisar medicación con vitamina K.,https://medlineplus.gov/spanish/ency/article/003652.htm
+tp_pct,alto,TP% alto indica coagulación dentro de parámetros habituales. Correlacione con INR.,https://medlineplus.gov/spanish/ency/article/003652.htm
+tp_pct,bajo,TP% bajo sugiere alteración de la coagulación. Consulte a su médico.,https://medlineplus.gov/spanish/ency/article/003652.htm
+tp_pct,limite,TP% cerca del límite: correlacione con INR y clínica de sangrado.,https://medlineplus.gov/spanish/ency/article/003652.htm
+ttpa,alto,TTPA prolongado puede indicar déficit de factores o uso de heparina. Consulte a su médico.,https://medlineplus.gov/spanish/ency/article/003653.htm
+ttpa,bajo,TTPA acortado es infrecuente. Interprete con el resto de los estudios de coagulación.,https://medlineplus.gov/spanish/ency/article/003653.htm
+ttpa,limite,TTPA cerca del límite: repetir si hay sangrado o anticoagulación activa.,https://medlineplus.gov/spanish/ency/article/003653.htm
+cloro,alto,Cloro alto puede acompañar a acidosis metabólica o pérdida de bicarbonato. Evalúe con gases en sangre.,https://medlineplus.gov/spanish/ency/article/003568.htm
+cloro,bajo,Cloro bajo puede verse en alcalosis metabólica o pérdidas digestivas. Correlacione con gases.,https://medlineplus.gov/spanish/ency/article/003568.htm
+cloro,limite,Cloro cerca del límite: correlacione con sodio potasio y bicarbonato.,https://medlineplus.gov/spanish/ency/article/003568.htm
+fosforo,alto,Fósforo alto puede verse en enfermedad renal o lisis celular. Evalúe metabolismo óseo-mineral.,https://medlineplus.gov/spanish/ency/article/003478.htm
+fosforo,bajo,Fósforo bajo puede causar debilidad muscular. Puede deberse a malabsorción o pérdidas renales.,https://medlineplus.gov/spanish/ency/article/003478.htm
+fosforo,limite,Fósforo cerca del límite: repetir si hay riesgo nutricional o renal.,https://medlineplus.gov/spanish/ency/article/003478.htm
+magnesio,alto,Magnesio alto puede deprimir reflejos y la conducción cardíaca. Evalúe función renal.,https://medlineplus.gov/spanish/ency/article/003487.htm
+magnesio,bajo,Magnesio bajo puede causar calambres o arritmias. Revise diuréticos y consumo de alcohol.,https://medlineplus.gov/spanish/ency/article/003487.htm
+magnesio,limite,Magnesio cerca del límite: correlacione con potasio y calcio.,https://medlineplus.gov/spanish/ency/article/003487.htm
+procalcitonina,alto,Procalcitonina elevada sugiere infección bacteriana sistémica o sepsis. Integre con clínica y otros exámenes.,https://medlineplus.gov/spanish/ency/article/003488.htm
+procalcitonina,bajo,Procalcitonina baja hace menos probable una sepsis bacteriana activa.,https://medlineplus.gov/spanish/ency/article/003488.htm
+procalcitonina,limite,Procalcitonina cerca del límite: reevalúe con la clínica y repita si hay sospecha de infección.,https://medlineplus.gov/spanish/ency/article/003488.htm
+vcm,alto,VCM alto indica glóbulos rojos grandes (macrocitosis). Puede deberse a déficit de B12 o folato o alcohol.,https://medlineplus.gov/spanish/ency/article/003648.htm
+vcm,bajo,VCM bajo indica glóbulos rojos pequeños (microcitosis). Puede deberse a falta de hierro o talasemia.,https://medlineplus.gov/spanish/ency/article/003648.htm
+vcm,limite,VCM cerca del límite: revise RDW e índices eritrocitarios.,https://medlineplus.gov/spanish/ency/article/003648.htm
+hcm,alto,HCM alta puede acompañar a macrocitosis. Interprete con VCM y CHCM.,https://medlineplus.gov/spanish/ency/article/003648.htm
+hcm,bajo,HCM baja indica hipocromía (glóbulos rojos con poca hemoglobina). Evalúe hierro.,https://medlineplus.gov/spanish/ency/article/003648.htm
+hcm,limite,HCM cerca del límite: correlacione con índices eritrocitarios completos.,https://medlineplus.gov/spanish/ency/article/003648.htm
+chcm,alto,CHCM alta puede observarse en esferocitosis. Consulte a su médico.,https://medlineplus.gov/spanish/ency/article/003648.htm
+chcm,bajo,CHCM baja indica hipocromía. Evalúe hierro y VCM.,https://medlineplus.gov/spanish/ency/article/003648.htm
+chcm,limite,CHCM cerca del límite: correlacione con hemoglobina y VCM.,https://medlineplus.gov/spanish/ency/article/003648.htm
+vpm,alto,VPM alto puede indicar activación o mayor tamaño de plaquetas. Interprete con el recuento plaquetario.,https://medlineplus.gov/spanish/ency/article/003647.htm
+vpm,bajo,VPM bajo puede asociarse a plaquetas pequeñas. Evalúe en contexto hematológico.,https://medlineplus.gov/spanish/ency/article/003647.htm
+vpm,limite,VPM cerca del límite: correlacione con recuento de plaquetas y clínica.,https://medlineplus.gov/spanish/ency/article/003647.htm
+rdw_cv,alto,RDW-CV alto indica variabilidad en el tamaño de los glóbulos rojos (anisocitosis). Útil para clasificar anemias.,https://medlineplus.gov/spanish/ency/article/003648.htm
+rdw_cv,bajo,RDW-CV bajo no suele tener relevancia clínica habitual.,https://medlineplus.gov/spanish/ency/article/003648.htm
+rdw_cv,limite,RDW-CV cerca del límite: correlacione con VCM e índices eritrocitarios.,https://medlineplus.gov/spanish/ency/article/003648.htm
+neutro,alto,Neutrófilos altos (neutrofilia) sugieren infección bacteriana activa o estrés físico.,https://medlineplus.gov/spanish/ency/article/003643.htm
+neutro,bajo,Neutrófilos bajos (neutropenia) aumentan el riesgo de infección. Evalúe medicamentos con su médico.,https://medlineplus.gov/spanish/ency/article/003643.htm
+neutro,limite,Neutrófilos cerca del límite: repetir si hay fiebre o síntomas de infección.,https://medlineplus.gov/spanish/ency/article/003643.htm
+linf,alto,Linfocitos altos pueden deberse a infecciones virales o procesos linfoproliferativos. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/003643.htm
+linf,bajo,Linfocitos bajos pueden verse en infecciones severas o uso de corticoides. Correlacione con la clínica.,https://medlineplus.gov/spanish/ency/article/003643.htm
+linf,limite,Linfocitos cerca del límite: repetir si persiste.,https://medlineplus.gov/spanish/ency/article/003643.htm
+mono,alto,Monocitos altos pueden indicar inflamación crónica o recuperación de infección.,https://medlineplus.gov/spanish/ency/article/003643.htm
+mono,bajo,Monocitos bajos son poco frecuentes. Evalúe en contexto clínico.,https://medlineplus.gov/spanish/ency/article/003643.htm
+mono,limite,Monocitos cerca del límite: correlacione con cuadro clínico.,https://medlineplus.gov/spanish/ency/article/003643.htm
+eos,alto,Eosinófilos altos pueden indicar alergias parasitosis o reacción a medicamentos.,https://medlineplus.gov/spanish/ency/article/003643.htm
+eos,bajo,Eosinófilos bajos no tienen significado clínico habitual.,https://medlineplus.gov/spanish/ency/article/003643.htm
+eos,limite,Eosinófilos cerca del límite: repetir si hay síntomas alérgicos persistentes.,https://medlineplus.gov/spanish/ency/article/003643.htm
+baso,alto,Basófilos altos son poco frecuentes. Pueden verse en alergias o enfermedades mieloproliferativas.,https://medlineplus.gov/spanish/ency/article/003643.htm
+baso,bajo,Basófilos bajos no tienen relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003643.htm
+baso,limite,Basófilos cerca del límite: correlacione con el resto del hemograma.,https://medlineplus.gov/spanish/ency/article/003643.htm
+ph,alto,pH alto indica alcalemia. Puede deberse a hiperventilación o vómitos frecuentes. Requiere evaluación médica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+ph,bajo,pH bajo indica acidemia. Puede deberse a problemas respiratorios metabólicos o renales. Requiere evaluación médica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+ph,limite,pH cerca del límite normal: confirme con PCO₂ y bicarbonato.,https://medlineplus.gov/spanish/ency/article/003401.htm
+pco2,alto,PCO₂ alta sugiere que el organismo no elimina bien el CO₂. Puede indicar dificultad respiratoria.,https://medlineplus.gov/spanish/ency/article/003401.htm
+pco2,bajo,PCO₂ baja indica hiperventilación. Puede ocurrir por ansiedad o compensación metabólica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+pco2,limite,PCO₂ cerca del límite: integre con pH y bicarbonato.,https://medlineplus.gov/spanish/ency/article/003401.htm
+po2,alto,PO₂ alta suele deberse a oxigenoterapia. Monitorice según indicación médica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+po2,bajo,PO₂ baja indica bajo nivel de oxígeno en sangre (hipoxemia). Requiere evaluación médica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+po2,limite,PO₂ cerca del límite: correlacione con saturación de oxígeno.,https://medlineplus.gov/spanish/ency/article/003401.htm
+hco3,alto,Bicarbonato alto puede indicar alcalosis metabólica o compensación respiratoria. Evalúe con su médico.,https://medlineplus.gov/spanish/ency/article/003401.htm
+hco3,bajo,Bicarbonato bajo puede indicar acidosis metabólica. Requiere evaluación médica urgente si hay síntomas.,https://medlineplus.gov/spanish/ency/article/003401.htm
+hco3,limite,Bicarbonato cerca del límite: integre con pH y PCO₂.,https://medlineplus.gov/spanish/ency/article/003401.htm
+exceso_base,alto,Exceso de base positivo indica alcalosis metabólica o compensación. Evalúe cloro y potasio.,https://medlineplus.gov/spanish/ency/article/003401.htm
+exceso_base,bajo,Exceso de base negativo indica acidosis metabólica. Evalúe causas con su médico.,https://medlineplus.gov/spanish/ency/article/003401.htm
+exceso_base,limite,Exceso de base cerca del límite: cambios leves pueden ser fisiológicos.,https://medlineplus.gov/spanish/ency/article/003401.htm
+sat_o2,alto,Saturación de O₂ alta suele reflejar aporte elevado de oxígeno. Ajuste según indicación médica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+sat_o2,bajo,Saturación de O₂ baja indica hipoxemia. Requiere evaluación y optimización del aporte de oxígeno.,https://medlineplus.gov/spanish/ency/article/003401.htm
+sat_o2,limite,Saturación de O₂ cerca del límite: confirme con PO₂ y evaluación clínica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+tco2,alto,TCO₂ alto habitualmente acompaña a alcalosis metabólica.,https://medlineplus.gov/spanish/ency/article/003401.htm
+tco2,bajo,TCO₂ bajo acompaña a acidosis metabólica. Interprete con pH y bicarbonato.,https://medlineplus.gov/spanish/ency/article/003401.htm
+tco2,limite,TCO₂ cerca del límite: interprete junto a pH y bicarbonato.,https://medlineplus.gov/spanish/ency/article/003401.htm
+fio2,alto,FIO₂ alta aumenta el oxígeno disponible. El médico ajustará según objetivos clínicos.,https://medlineplus.gov/spanish/ency/article/003401.htm
+fio2,bajo,FIO₂ baja puede ser insuficiente en hipoxemia. Su médico ajustará el aporte según necesidad.,https://medlineplus.gov/spanish/ency/article/003401.htm
+fio2,limite,FIO₂ cerca del límite: individualice según necesidades clínicas.,https://medlineplus.gov/spanish/ency/article/003401.htm
+pres_baro,alto,Presión barométrica alta aumenta la presión parcial de los gases. Su médico lo considerará al interpretar el resultado.,https://medlineplus.gov/spanish/ency/article/003401.htm
+pres_baro,bajo,Presión barométrica baja (como en altitud) reduce el oxígeno disponible en el ambiente.,https://medlineplus.gov/spanish/ency/article/003401.htm
+pres_baro,limite,Variaciones moderadas de presión barométrica: considere la altitud al interpretar gases.,https://medlineplus.gov/spanish/ency/article/003401.htm
+temp,alto,Temperatura elevada altera el equilibrio de gases en sangre. Su médico considerará la corrección necesaria.,https://medlineplus.gov/spanish/ency/article/003401.htm
+temp,bajo,Hipotermia modifica el equilibrio ácido-base. Su médico aplicará las correcciones pertinentes.,https://medlineplus.gov/spanish/ency/article/003401.htm
+temp,limite,Temperatura cerca del límite: verificar calibración del analizador de gases.,https://medlineplus.gov/spanish/ency/article/003401.htm
+tsh,alto,TSH elevada puede indicar hipotiroidismo (la glándula tiroides trabaja menos de lo normal). Su médico indicará si se necesita tratamiento.,https://medlineplus.gov/spanish/ency/article/003684.htm
+tsh,bajo,TSH baja puede indicar hipertiroidismo o sobretratamiento tiroideo. Requiere evaluación médica.,https://medlineplus.gov/spanish/ency/article/003684.htm
+tsh,limite,TSH cercana al límite: puede reflejar variabilidad normal o inicio de disfunción tiroidea. Su médico decidirá si repetir el examen.,https://medlineplus.gov/spanish/ency/article/003684.htm
+t4_libre,alto,T4 libre elevada puede indicar hipertiroidismo. Consulte con su médico para interpretación y seguimiento.,https://medlineplus.gov/spanish/ency/article/003517.htm
+t4_libre,bajo,T4 libre baja puede indicar hipotiroidismo. Requiere correlación con TSH y evaluación médica.,https://medlineplus.gov/spanish/ency/article/003517.htm
+t4_libre,limite,T4 libre cercana al límite: interprete junto a TSH para descartar disfunción tiroidea.,https://medlineplus.gov/spanish/ency/article/003517.htm
+vhs,alto,Velocidad de sedimentación alta puede indicar inflamación o infección activa. Requiere estudio de causa.,https://medlineplus.gov/spanish/ency/article/003638.htm
+vhs,bajo,Velocidad de sedimentación muy baja generalmente no tiene relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003638.htm
+vhs,limite,Velocidad de sedimentación en el límite: interprete junto a otros marcadores inflamatorios (PCR) y contexto clínico.,https://medlineplus.gov/spanish/ency/article/003638.htm
+acido_urico,alto,Ácido úrico elevado puede asociarse a gota u otras condiciones. Controle hidratación y dieta; consulte a su médico.,https://medlineplus.gov/spanish/ency/article/003476.htm
+acido_urico,bajo,Ácido úrico muy bajo es poco frecuente y rara vez tiene relevancia clínica aislada.,https://medlineplus.gov/spanish/ency/article/003476.htm
+acido_urico,limite,Ácido úrico cercano al límite: controle ingesta de purinas (carnes rojas, mariscos) y repita control según indicación médica.,https://medlineplus.gov/spanish/ency/article/003476.htm
+vitamina_d,alto,Vitamina D muy elevada puede indicar suplementación excesiva. Suspenda suplementos y consulte a su médico.,https://medlineplus.gov/spanish/ency/article/002472.htm
+vitamina_d,bajo,Vitamina D baja es muy frecuente y se asocia a salud ósea deteriorada y fatiga. Consulte sobre suplementación.,https://medlineplus.gov/spanish/ency/article/002472.htm
+vitamina_d,limite,Vitamina D en rango límite (insuficiencia): considere exposición solar moderada y evaluar suplementación con su médico.,https://medlineplus.gov/spanish/ency/article/002472.htm
+vitamina_b12,alto,Vitamina B12 muy elevada puede verse en suplementación o en algunas enfermedades hepáticas. Informe a su médico.,https://medlineplus.gov/spanish/ency/article/002403.htm
+vitamina_b12,bajo,Vitamina B12 baja puede causar anemia y síntomas neurológicos. Consulte sobre suplementación o dieta.,https://medlineplus.gov/spanish/ency/article/002403.htm
+vitamina_b12,limite,Vitamina B12 en límite inferior: evalúe dieta y considere repetir control o suplementación según indicación médica.,https://medlineplus.gov/spanish/ency/article/002403.htm

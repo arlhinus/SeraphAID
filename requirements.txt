@@ -1,0 +1,10 @@
+streamlit
+pandas
+pydantic
+requests
+pdfplumber
+pytesseract
+Pillow
+pdf2image
+openai
+python-dotenv

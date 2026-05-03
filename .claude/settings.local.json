@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python.exe -c \"import ast; ast.parse\\(open\\(''app.py''\\).read\\(\\)\\); print\\(''OK: app.py sintaxis válida''\\)\")",
+      "Bash(.venv/Scripts/python.exe -c \"import ast; ast.parse\\(open\\(''app.py'', encoding=''utf-8''\\).read\\(\\)\\); print\\(''OK: app.py sintaxis valida''\\)\")",
+      "Bash(.venv/Scripts/python.exe -c \"import ast; [ast.parse\\(open\\(f, encoding=''utf-8''\\).read\\(\\)\\) and print\\(f''OK: {f}''\\) for f in [''modules/ai/base.py'',''modules/ai/registry.py'',''modules/ai/rules_provider.py'',''modules/ai/openai_provider.py'',''modules/ai/anthropic_provider.py'',''storage/base.py'',''storage/local_json.py'']]\")",
+      "Bash(.venv/Scripts/python.exe -c \":*)",
+      "Bash(.venv/Scripts/python.exe tests/test_modules.py)",
+      "Bash(pip install:*)",
+      "Bash(python tests/test_modules.py)",
+      "Bash(python -c \":*)",
+      "Bash(python -c \"import pandas as pd; df = pd.read_csv\\(''data/medicamentos.csv''\\); print\\(len\\(df\\), ''rows''\\); print\\(df.columns.tolist\\(\\)\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''pages/02_medicamentos.py''\\).read\\(\\)\\); print\\(''Syntax OK''\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''pages/02_medicamentos.py'', encoding=''utf-8''\\).read\\(\\)\\); print\\(''Syntax OK''\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''app.py'', encoding=''utf-8''\\).read\\(\\)\\); print\\(''app.py OK''\\)\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\(''app.py'',encoding=''utf-8''\\).read\\(\\)\\); ast.parse\\(open\\(''pages/02_medicamentos.py'',encoding=''utf-8''\\).read\\(\\)\\); ast.parse\\(open\\(''modules/ui_components.py'',encoding=''utf-8''\\).read\\(\\)\\); print\\(''All OK''\\)\")"
+    ]
+  }
+}
