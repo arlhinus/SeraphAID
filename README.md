@@ -1,55 +1,39 @@
+# 🩺 SeraphAID
+
+**Sistema integral de información al paciente que traduce información clínica compleja en explicaciones comprensibles, accionables y seguras.**
+
+Actualmente enfocado en la **interpretación de exámenes de laboratorio**, con una arquitectura modular diseñada para expandirse a medicamentos, documentos clínicos, orientación post-consulta y educación personalizada.
+
+> ⚠️ **Este sistema nunca reemplaza la atención médica profesional. Nunca emite diagnósticos.**  
+> Todo output generado por la aplicación incluye un recordatorio explícito de que no sustituye la evaluación de un profesional de la salud.
 
 ---
 
-## 🔍 Bugs conocidos (monitoreados en `STATUS.md`)
+## 🧭 Filosofía y reglas permanentes
 
-| ID  | Descripción                                                                 |
-|-----|-----------------------------------------------------------------------------|
-| B1  | `normalize_marker()` sin `return` → el CSV de explicaciones nunca es consultado |
-| B2  | API key hardcodeada en línea 1056 de `app.py` (riesgo de seguridad)         |
-| B3  | Campo `hemoglobina` duplicado en el formulario de entrada                   |
-
----
-
-## 🗺️ Módulos previstos
-
-| Módulo | Nombre                          | Estado               |
-|--------|---------------------------------|----------------------|
-| A      | Exámenes de laboratorio         | ✅ En refinamiento   |
-| B      | Medicamentos                    | 🔜 Próximo           |
-| C      | Indicaciones / documentos clínicos | 📅 Planeado       |
-| D      | Orientación post-consulta       | 📅 Planeado          |
-| E      | Educación personalizada         | 📅 Planeado          |
+1. **No reemplazar criterio médico profesional**.
+2. **No emitir diagnósticos definitivos**.
+3. **No romper funcionalidades existentes** sin revisar primero.
+4. **Priorizar refactor progresivo** sobre reescritura total.
+5. **Documentar decisiones importantes** en `DECISIONS.md`.
+6. **Mantener compatibilidad con ejecución local en Windows**.
+7. **Favorecer arquitectura modular y mantenible**.
+8. **Todo output de la app debe incluir disclaimer** de "no reemplaza evaluación profesional".
 
 ---
 
-## 🎯 Prioridad de implementación
+## 🧱 Stack actual
 
-1. **Corregir bugs críticos** (Sprint 1)  
-2. **Separar datos del código** (Sprint 2)  
-3. **Modularizar lógica** (Sprint 3)  
-4. **Conectar LLM** (Sprint 4)  
-5. **Módulo B: Medicamentos** (Sprint 5)
+| Componente       | Tecnología                           |
+|------------------|--------------------------------------|
+| Lenguaje         | Python 3.x                           |
+| UI               | [Streamlit](https://streamlit.io/)   |
+| Validación       | Pydantic                             |
+| Datos tabulares  | pandas                               |
+| OCR / PDF        | pdfplumber, pytesseract, Pillow      |
+| Voz (TTS)        | ElevenLabs (vía `requests`)          |
+| IA conversacional| OpenAI (SDK instalado, aún no conectado) |
 
 ---
 
-## 🧪 Ejecución local
-
-```bash
-# Clonar repositorio
-git clone https://github.com/arlhinus/SeraphAID.git
-cd SeraphAID
-
-# Crear y activar entorno virtual
-python -m venv venv
-source venv/bin/activate   # En Windows: venv\Scripts\activate
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Configurar claves API
-cp .env.example .env
-# Editar .env y añadir tus claves (ELEVEN_API_KEY, etc.)
-
-# Ejecutar
-streamlit run app.py
+## 📁 Estructura de archivos clave
